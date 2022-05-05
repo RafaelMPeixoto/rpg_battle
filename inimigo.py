@@ -3,7 +3,7 @@ import time
 
 class Inimigo: 
     def __init__(self):
-         self.nome = 'Dunga'
+         self.nome = 'Freeza'
          self.ataque = randint(50,150)
          self.defesa = randint(10,50)
          self.vida = randint(200,400)  
